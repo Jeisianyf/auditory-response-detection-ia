@@ -16,9 +16,7 @@ all_features/f0_h2_h3/
 
 
 # Models
-modelo_fundamental_auc_v1.keras
-
-all_features/models/
+all_features/models/*
 !all_features/models/tcc_auc_all_features_Fundamental_+_2º_+_3º_Harmônicos_lstm_v1.keras
 !all_features/models/tcc_auc_all_features_Fundamental_+_2º_Harmônico_lstm_v1.keras
 !all_features/models/tcc_auc_all_features_Fundamental_lstm_v1.keras
