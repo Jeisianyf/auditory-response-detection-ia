@@ -1,0 +1,4 @@
+Study: V5
+F0: Melhores hiperparâmetros: {'n_layers': 2, 'units': 512, 'dropout': 0.48658301914970925, 'learning_rate': 5.0259177492281914e-05, 'batch_size': 16}
+F0, 2F0: Melhores hiperparâmetros: {'n_layers': 5, 'units': 384, 'dropout': 0.27229046820654446, 'learning_rate': 0.0018810916665669677, 'batch_size': 64}
+F0, 2F0 e 3F0: Melhores hiperparâmetros: {'n_layers': 8, 'units': 352, 'dropout': 0.11793745620268263, 'learning_rate': 0.0005032569690210589, 'batch_size': 32}

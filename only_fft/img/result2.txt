@@ -1,0 +1,3 @@
+Estudo: Tcc_V4
+Melhores hiperparâmetros: {'n_layers': 4, 'units': 448, 'dropout': 0.38196344735938037, 'learning_rate': 0.0004999672833594444, 'batch_size': 32}
+Conjunto de Dados Utilizados na otimização: f0_h2_h3 apenas

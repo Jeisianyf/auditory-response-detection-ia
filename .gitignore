@@ -1,0 +1,27 @@
+# Virtual environment
+tcc/
+
+# Optuna DB
+*.db
+
+# Datasets
+dataset_fz_cz.csv
+only_fft/f0/
+only_fft/f0_h2/
+only_fft/f0_h2_h3/
+
+all_features/f0/
+all_features/f0_h2/
+all_features/f0_h2_h3/
+
+
+# Models
+modelo_fundamental_auc_v1.keras
+
+all_features/models/
+!all_features/models/tcc_auc_all_features_Fundamental_+_2º_+_3º_Harmônicos_lstm_v1.keras
+!all_features/models/tcc_auc_all_features_Fundamental_+_2º_Harmônico_lstm_v1.keras
+!all_features/models/tcc_auc_all_features_Fundamental_lstm_v1.keras
+!all_features/models/tcc_auc_all_features_Fundamental_+_2º_+_3º_Harmônicos_v5.keras
+!all_features/models/tcc_auc_all_features_Fundamental_+_2º_Harmônico_v5.keras
+!all_features/models/tcc_auc_all_features_Fundamental_v5.keras
