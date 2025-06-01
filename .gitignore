@@ -14,6 +14,8 @@ all_features/f0/
 all_features/f0_h2/
 all_features/f0_h2_h3/
 
+# Jupyter Checkpoints
+.ipynb_checkpoints
 
 # Models
 all_features/models/*
